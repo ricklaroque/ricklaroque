@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Technologies I work with:
-- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, React  
+- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, React, Python  
 - **Frontend:** HTML, CSS, TailwindCSS  
 - **Currently Learning:** Databases, Git  
 
