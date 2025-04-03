@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Henrique Laroque!
 
-<!--
-**ricklaroque/ricklaroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development student (ADS) - 3/6 at Senac.  
+💻 Passionate about web development and always eager to learn more!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I work with:
+- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, React  
+- **Frontend:** HTML, CSS, TailwindCSS  
+- **Currently Learning:** Databases, Git  
+
+---
+
+## 📫 How to reach me:
+- 🌎 [My Portfolio](#) *(coming soon!)*  
+- 📩 Email: henriquelaroque@outlook.com  
+- 💼 [LinkedIn](#)(https://www.linkedin.com/in/henrique-laroque-32b649329/)  
+- 🐙 [GitHub](#)(https://github.com/ricklaroque)  
+
+---
+
+Always open to collaborations and new challenges! 🚀
