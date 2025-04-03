@@ -15,7 +15,7 @@
 ## 📫 How to reach me:
 - 🌎 [My Portfolio](#) *(coming soon!)*  
 - 📩 Email: henriquelaroque@outlook.com  
-- 💼 [LinkedIn](#https://www.linkedin.com/in/henrique-laroque-32b649329/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/henrique-laroque-32b649329/)  
 - 🐙 [GitHub](https://github.com/ricklaroque)  
 
 ---
