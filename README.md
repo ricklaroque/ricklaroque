@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Henrique Laroque!
 
-🎓 Software Development student (ADS) - 3/6 at Senac.  
+🎓 Software Development student (ADS) - 5/6 at Senac.  
 💻 Passionate about web development and always eager to learn more!  
 
 ---
